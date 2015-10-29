@@ -1,0 +1,2 @@
+# easylanre
+Alias name
